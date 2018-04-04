@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">生長日記</string>
+    <string name="hello_world">fuck you(Version 2.0)</string>
+    <string name="h1">芽菜寶寶生長日記</string>
+    <string name="TableLayoutTitle">系統登入</string>
+    <string name="bnt_1">登入</string>
+    <string name="h2">芽菜寶寶開發團隊2018</string>
+    <string name="dialog_message">12345</string>
+    <string name="dialog_title">芽菜箱</string>
+</resources>
